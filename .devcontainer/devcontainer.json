@@ -4,4 +4,5 @@
 		"ghcr.io/devcontainers/features/aws-cli:1": {},
 		"ghcr.io/devcontainers/features/azure-cli:1": {}
 	}
+	"forwardPorts": [4000]
 }
